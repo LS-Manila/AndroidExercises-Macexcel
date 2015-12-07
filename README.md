@@ -25,7 +25,7 @@
 23. Mini-database with Text file 
 24. Settings Activity https://github.com/DeLaSalleUniversity-Manila/settingsactivity-macexcel </br>
 25. WorkoutFragmentDemo https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-macexcel<br />
-26. Grocery App <br />
+26. Grocery App https://github.com/DeLaSalleUniversity-Manila/groceryapp-macexcel <br />
 27. Breast Cancer Awareness App https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-luislerit GROUPWORK <br />
 28. OpenCV 3.0 Camera Preview Example <br />
 29. OpenCV 3.0 15-Tile Camera Puzzle <br />
