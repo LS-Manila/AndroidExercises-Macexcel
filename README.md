@@ -12,9 +12,9 @@
 10.My Music App https://github.com/DeLaSalleUniversity-Manila/mymusicapp-macexcel <br />
 11.Splash Activity https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-macexcel <br />
 12.Menu Activity https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-macexcel <br />
-13. <br />
-14. <br />
-15. <br />
+13.Help Activity https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-macexcel <br />
+14.Green Target  https://github.com/DeLaSalleUniversity-Manila/greentarget-macexcel <br />
+15.Take a Picture  <br />
 16. <br />
 17. <br />
 18. <br />
