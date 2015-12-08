@@ -90,17 +90,17 @@
 88. CMT Tracker with ORB Features <br />
 89. San Angeles <br />
 90. OpenGL ES 3.0 Demo  <br />
-91. 2048 Game  <br />
+91. 2048 Game https://github.com/DeLaSalleUniversity-Manila/2048-macexcel <br />
 92. Green Wall Game https://github.com/DeLaSalleUniversity-Manila/greenwall-macexcel  <br />
-93. Octodroid  <br />
-94. Flappy Bird (Clone)  <br />
-95. 9GAG (Unofficial App)  <br />
-96. MP Android Chart Demo  <br />
-97. Puzzle Collection  <br />
-98. Super Jumper <br />
-99. Super Mario (Android Clone) <br />
-100. Google's Santa Tracker <br />
-101. Forkhub <br />
+93. Octodroid https://github.com/DeLaSalleUniversity-Manila/octodroid-macexcel <br />
+94. Flappy Bird (Clone) https://github.com/DeLaSalleUniversity-Manila/flappydemo-macexcel <br />
+95. 9GAG (Unofficial App) https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-macexcel <br />
+96. MP Android Chart Demo https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-macexcel <br />
+97. Puzzle Collection https://github.com/DeLaSalleUniversity-Manila/puzzlecollection-macexcel <br />
+98. Super Jumper https://github.com/DeLaSalleUniversity-Manila/superjumper-macexcel <br />
+99. Super Mario (Android Clone) https://github.com/DeLaSalleUniversity-Manila/supermario-macexcel <br />
+100. Google's Santa Tracker https://github.com/DeLaSalleUniversity-Manila/santatracker-macexcel <br />
+101. Forkhub https://github.com/DeLaSalleUniversity-Manila/ForkHub-macexcel <br />
 
 Project: https://github.com/DeLaSalleUniversity-Manila/finalproject2015-macexcel 
 
