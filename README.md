@@ -29,9 +29,9 @@
 27. Breast Cancer Awareness App https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-luislerit GROUPWORK <br />
 28. OpenCV 3.0 Camera Preview Example  https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-macexcel <br />
 29. OpenCV 3.0 15-Tile Camera Puzzle https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-macexcel <br />
-30. Image Local Binary Pattern <br />
-31. OpenCV 3.0 Mixed-Signal Processing  <br />
-32. OpenCV 3.0 Face Detection Sample <br />
+30. Image Local Binary Pattern https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-macexcel <br />
+31. OpenCV 3.0 Mixed-Signal Processing https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-macexcel <br />
+32. OpenCV 3.0 Face Detection Sample https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-macexcel <br />
 33. OpenCV 3.0 Image Manipulations <br />
 34. Get Current Location and Place a Marker  <br />
 35. Get Neighboring Hospitals  <br />
@@ -86,10 +86,10 @@
 84. Histogram of Gradients (HOG) Features  <br />
 85. Consensus-based Matching and Tracking in Android (CMT Tracker)  <br />
 86. Tesseract OCR Demo  <br />
-87. CMT Tracker with AKAZE Features <br />
-88. CMT Tracker with ORB Features <br />
-89. San Angeles <br />
-90. OpenGL ES 3.0 Demo  <br />
+87. CMT Tracker with AKAZE Features https://github.com/DeLaSalleUniversity-Manila/cmt-akaze-macexcel <br />
+88. CMT Tracker with ORB Features https://github.com/DeLaSalleUniversity-Manila/cmt-orb-macexcel <br />
+89. San Angeles https://github.com/DeLaSalleUniversity-Manila/sanangeles-macexcel <br />
+90. OpenGL ES 3.0 Demo  https://github.com/DeLaSalleUniversity-Manila/opengles3-macexcel <br />
 91. 2048 Game https://github.com/DeLaSalleUniversity-Manila/2048-macexcel <br />
 92. Green Wall Game https://github.com/DeLaSalleUniversity-Manila/greenwall-macexcel  <br />
 93. Octodroid https://github.com/DeLaSalleUniversity-Manila/octodroid-macexcel <br />
