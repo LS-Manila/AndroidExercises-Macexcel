@@ -27,8 +27,8 @@
 25. WorkoutFragmentDemo https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-macexcel<br />
 26. Grocery App https://github.com/DeLaSalleUniversity-Manila/groceryapp-macexcel <br />
 27. Breast Cancer Awareness App https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-luislerit GROUPWORK <br />
-28. OpenCV 3.0 Camera Preview Example <br />
-29. OpenCV 3.0 15-Tile Camera Puzzle <br />
+28. OpenCV 3.0 Camera Preview Example  https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-macexcel <br />
+29. OpenCV 3.0 15-Tile Camera Puzzle https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-macexcel <br />
 30. Image Local Binary Pattern <br />
 31. OpenCV 3.0 Mixed-Signal Processing  <br />
 32. OpenCV 3.0 Face Detection Sample <br />
@@ -91,7 +91,7 @@
 89. San Angeles <br />
 90. OpenGL ES 3.0 Demo  <br />
 91. 2048 Game  <br />
-92. Green Wall Game  <br />
+92. Green Wall Game https://github.com/DeLaSalleUniversity-Manila/greenwall-macexcel  <br />
 93. Octodroid  <br />
 94. Flappy Bird (Clone)  <br />
 95. 9GAG (Unofficial App)  <br />
@@ -101,3 +101,7 @@
 99. Super Mario (Android Clone) <br />
 100. Google's Santa Tracker <br />
 101. Forkhub <br />
+
+Project: https://github.com/DeLaSalleUniversity-Manila/finalproject2015-macexcel 
+
+
