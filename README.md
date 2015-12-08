@@ -32,7 +32,7 @@
 30. Image Local Binary Pattern https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-macexcel <br />
 31. OpenCV 3.0 Mixed-Signal Processing https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-macexcel <br />
 32. OpenCV 3.0 Face Detection Sample https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-macexcel <br />
-33. OpenCV 3.0 Image Manipulations <br />
+33. OpenCV 3.0 Image Manipulations  <br />
 34. Get Current Location and Place a Marker  <br />
 35. Get Neighboring Hospitals  <br />
 36. OpenCV 3.0 Color Blob Detection Sample <br />
@@ -41,8 +41,8 @@
 39. Cat Face Detection <br />
 40. QR and Bar Code Reader <br />
 41. OpenCV 3.0 Camera Control  <br />
-42. OpenCV 3.0 Image Manipulations with Action Bar <br />
-43. FAST Keypoints  <br />
+42. OpenCV 3.0 Image Manipulations with Action Bar https://github.com/DeLaSalleUniversity-Manila/addingactionbar-macexcel <br />
+43. FAST Keypoints https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-macexcel  <br />
 44. AKAZE Keypoints <br />
 45. Colored Gray <br />
 46. Twin Camera Effect  <br />
