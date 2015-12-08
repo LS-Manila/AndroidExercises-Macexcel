@@ -43,7 +43,7 @@
 41. OpenCV 3.0 Camera Control  <br />
 42. OpenCV 3.0 Image Manipulations with Action Bar https://github.com/DeLaSalleUniversity-Manila/addingactionbar-macexcel <br />
 43. FAST Keypoints https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-macexcel  <br />
-44. AKAZE Keypoints <br />
+44. AKAZE Keypoints https://github.com/DeLaSalleUniversity-Manila/akazefeatures-macexcel <br />
 45. Colored Gray <br />
 46. Twin Camera Effect  <br />
 47. Range Seekbar Demo  <br />
