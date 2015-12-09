@@ -1,7 +1,7 @@
 # AndroidExercises-Macexcel
 
 1.HelloWorld https://github.com/DeLaSalleUniversity-Manila/helloWorld <br />
-2.Prime Number Game https://github.com/DeLaSalleUniversity-Manila/primenumbergame-macexcel <br />
+2.Prime Number Game </br>
 3.Activity Life Cycle https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-macexcel <br />
 4.Display Webpage https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-macexcel <br />
 5.Second Activity Assignment https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-macexcel <br />
@@ -9,7 +9,7 @@
 7.Stopwatch App https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-macexcel <br />
 8.Email App https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-macexcel <br />
 9.Text to Speech https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-macexcel <br />
-10.My Music App https://github.com/DeLaSalleUniversity-Manila/mymusicapp-macexcel <br />
+10.My Music App  <br />
 11.Splash Activity https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-macexcel <br />
 12.Menu Activity https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-macexcel <br />
 13.Help Activity https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-macexcel <br />
@@ -30,7 +30,7 @@
 28. OpenCV 3.0 Camera Preview Example  https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-macexcel <br />
 29. OpenCV 3.0 15-Tile Camera Puzzle https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-macexcel <br />
 30. Image Local Binary Pattern https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-macexcel <br />
-31. OpenCV 3.0 Mixed-Signal Processing https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-macexcel <br />
+31. OpenCV 3.0 Mixed-Signal Processing  <br />
 32. OpenCV 3.0 Face Detection Sample https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-macexcel <br />
 33. OpenCV 3.0 Image Manipulations  <br />
 34. Get Current Location and Place a Marker  <br />
@@ -41,9 +41,9 @@
 39. Cat Face Detection <br />
 40. QR and Bar Code Reader <br />
 41. OpenCV 3.0 Camera Control  <br />
-42. OpenCV 3.0 Image Manipulations with Action Bar https://github.com/DeLaSalleUniversity-Manila/addingactionbar-macexcel <br />
+42. OpenCV 3.0 Image Manipulations with Action Bar  <br />
 43. FAST Keypoints https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-macexcel  <br />
-44. AKAZE Keypoints https://github.com/DeLaSalleUniversity-Manila/akazefeatures-macexcel <br />
+44. AKAZE Keypoints <br />
 45. Colored Gray <br />
 46. Twin Camera Effect  <br />
 47. Range Seekbar Demo  <br />
